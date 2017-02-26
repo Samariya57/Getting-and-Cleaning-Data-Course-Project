@@ -18,6 +18,7 @@ grouped by activity and person, hence it will contain 180 rows.
 * Run_analysis.R 
 * CookBook.md
 * Cook_subscript.R
+* ind_tidy.txt
 
 ##Run_analysis.R
 
