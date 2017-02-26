@@ -10,7 +10,8 @@ The obtained dataset has been randomly partitioned into two sets, where 70% of t
 training data and 30% the test data. 
 A vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' 
 for more details. 
-We have to create a new tidy independent data based on experiments data.
+We have to create a new tidy independent data based on experiments data. New data has to aggregate mean for every measuments 
+grouped by activity and person, hence it will contain 180 rows. 
 
 ## Repository consists of following files:
 * README.md 
@@ -33,6 +34,10 @@ This file contains a script which helps to collect existing data and create a ne
 ##CookBook.md
 
 Information file about variables in the new tidy data set.
+
+##ind_tidy.txt
+
+My final tidy data.
 
 ##Cook_subscript.R
 
