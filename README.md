@@ -1,7 +1,5 @@
-## Data Science Specialization by John Hopkins University
-### Getting and Cleaning Data Course
-
 # Getting and Cleaning Data Course Project
+### Data Science Specialization by John Hopkins University
 
 ## The goal of project
 
