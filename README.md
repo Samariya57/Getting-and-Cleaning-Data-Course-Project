@@ -1,6 +1,9 @@
-# Getting-and-Cleaning-Data-Course-Project
+## Data Science Specialization by John Hopkins University
+### Getting and Cleaning Data Course
 
-##The goal of project
+# Getting and Cleaning Data Course Project
+
+## The goal of project
 
 At the begining we have a raw data about some experiments. The experiments have been carried out with a group of 30 volunteers. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone 
@@ -20,7 +23,7 @@ grouped by activity and person, hence it will contain 180 rows.
 * Cook_subscript.R
 * ind_tidy.txt
 
-##Run_analysis.R
+## Run_analysis.R
 
 This file contains a script which helps to collect existing data and create a new independent tidy data set
 
@@ -32,14 +35,14 @@ This file contains a script which helps to collect existing data and create a ne
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable \
    for each activity and each subject.
    
-##CookBook.md
+## CookBook.md
 
 Information file about variables in the new tidy data set.
 
-##ind_tidy.txt
+## ind_tidy.txt
 
 My final tidy data.
 
-##Cook_subscript.R
+## Cook_subscript.R
 
 Short script that helps to prepare features names info readable form.
